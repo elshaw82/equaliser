@@ -1,0 +1,2 @@
+# equaliser
+ hover over equaliser
